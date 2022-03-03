@@ -531,6 +531,14 @@ form a{
 	transition: transform 1s;
 }
 
+.about-logo{
+	float: none;
+	width: 100%;
+	display: block;
+	margin: auto;
+	
+}
+
 
 
 
@@ -554,6 +562,16 @@ form a{
 	.cart-info p{
 		display: none;
 	}
+
+	.about-logo img{
+		float: none;
+		width: 100%;
+		display: block;
+		margin: auto;
+		left: 10px;
+		right: 10px;
+	}
+	
 }
 
 
